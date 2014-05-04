@@ -1,0 +1,1 @@
+Implements some paper algorithms based on OpenCV.
